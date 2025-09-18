@@ -49,7 +49,7 @@
     "@netlify/plugin-nextjs": "^4.30.4"
   },
   "engines": {
-    "node": "^14"
+    "node": "22.x" 
   },
   "plugins": [
     "@semantic-release/commit-analyzer",
